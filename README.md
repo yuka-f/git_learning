@@ -8,3 +8,6 @@ GitHub実践はんずおんぱおん
 - ターミナルでGitHubディレクトリを作りコピーしたアドレスをペースト
 - cloneしたディレクトリへ移動しておく
 - エディタ開きcloneしたファイルを開く
+- developeブランチをきる(「git　chekout -b develope」とターミナルで打った)
+
+# developeブランチから変更
